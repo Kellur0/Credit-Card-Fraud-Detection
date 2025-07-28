@@ -18,7 +18,7 @@ Due to the imbalance, model evaluation focuses on **precision**, **recall**, and
 
 ## 🧠 Models Used
 
-8 machine learning models were trained and evaluated:
+6 machine learning and 2 deep learning methods were trained and evaluated:
 
 <img width="606" height="226" alt="image" src="https://github.com/user-attachments/assets/47032138-9e92-4b5c-8c40-dbae6cd3ba2d" />
 
