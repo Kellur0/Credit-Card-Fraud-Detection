@@ -18,9 +18,10 @@ Due to the imbalance, model evaluation focuses on **precision**, **recall**, and
 
 ## 🧠 Models Used
 
-Five machine learning models were trained and evaluated:
+8 machine learning models were trained and evaluated:
 
-<img width="1345" height="343" alt="image" src="https://github.com/user-attachments/assets/3a2f36c4-790e-4527-8976-193198edbc21" />
+<img width="606" height="226" alt="image" src="https://github.com/user-attachments/assets/47032138-9e92-4b5c-8c40-dbae6cd3ba2d" />
+
 
 
 > 🔍 *KNN delivered the best trade-off with 92% precision and 87% F1-score.*
