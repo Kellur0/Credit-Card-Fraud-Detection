@@ -20,14 +20,6 @@ Due to the imbalance, model evaluation focuses on **precision**, **recall**, and
 
 Five machine learning models were trained and evaluated:
 
-| Model                  | Precision | Recall | F1 Score | Accuracy |
-|------------------------|-----------|--------|----------|----------|
-| Logistic Regression    | 0.83      | 0.64   | 0.72     | 99.92%   |
-| K-Nearest Neighbors    | 0.92      | 0.83   | 0.87     | 99.96%   |
-| Naïve Bayes            | —         | —      | —        | —        |
-| Linear Discriminant Analysis (LDA) | —    | —      | —        | —        |
-| Quadratic Discriminant Analysis (QDA) | — | High recall, low precision | — | — |
-
 <img width="1345" height="343" alt="image" src="https://github.com/user-attachments/assets/3a2f36c4-790e-4527-8976-193198edbc21" />
 
 
